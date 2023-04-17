@@ -1,1 +1,1 @@
-## React | Fetching data from an API
+## Fetching data from an API
