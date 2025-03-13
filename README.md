@@ -1,6 +1,6 @@
 ## Fetching data from an API
 
-🌎 Website: https://benitoportifolio.onrender.com
+🌎 Website: https://fetchingdatainreact.netlify.app/
 
 Code Base
 
